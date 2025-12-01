@@ -15,8 +15,7 @@ How to view
 - If you have the dataset (CSV), place it next to the notebook or upload it in Colab to run the notebook.
 
 Add a screenshot
-- To show a dashboard or visual summary, add an image file under a folder named `screenshots/` (example: `screenshots/dashboard_overview.png`).
-- Once the image is in the repo, you can reference it in this README to display it.
+-https://github.com/Nexux69/Finance-and-accounting-/blob/main/Screenshot%202025-11-26%20174503.png
 
 Contributing
 - Suggestions, fixes, and new visuals are welcome. Open an issue or a pull request with a short description and (optionally) a screenshot.
