@@ -14,7 +14,7 @@ How to view
 - Open the notebook in Google Colab or any Jupyter environment.
 - If you have the dataset (CSV), place it next to the notebook or upload it in Colab to run the notebook.
 
-Add a screenshot
+
 -<img width="862" height="485" alt="Screenshot 2025-11-26 174503" src="https://github.com/user-attachments/assets/c99a7eff-cd19-430f-8855-735711ef0929" />
 
 
