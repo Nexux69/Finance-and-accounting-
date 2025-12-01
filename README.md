@@ -1,7 +1,5 @@
 # Finance & Accounting — Udemy Notebook
 
-A simple, beginner-friendly description of the notebook that analyzes Udemy courses in the Finance & Accounting category.
-
 Overview
 - This repository contains a Jupyter/Colab notebook: Finance_and_Accounting_Udemy.ipynb
 - The notebook explores course metadata, visualizes trends, and summarizes key insights.
@@ -13,7 +11,8 @@ What’s included
 How to view
 - Open the notebook in Google Colab or any Jupyter environment.
 - If you have the dataset (CSV), place it next to the notebook or upload it in Colab to run the notebook.
-
+  
+Dashboard
 
 -<img width="862" height="485" alt="Screenshot 2025-11-26 174503" src="https://github.com/user-attachments/assets/c99a7eff-cd19-430f-8855-735711ef0929" />
 
